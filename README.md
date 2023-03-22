@@ -1,5 +1,5 @@
 <h1 align="center">Hello, je suis Charles Woehl</h1>
-<h3 align="center">Passionné du web depuis la fin des années 2000, j'ai commencé en autodidacte à faire des sites en PHP et un peu en Flash. J'ai ensuite pas mal fait de sites e-commerces en base Prestashop. Après 11 ans en tant que gérant fondateur d'un traiteur de petit déjeuner & brunch à Paris : Sophie la Parisienne; j'ai décidé d'entamer une formation FULL STACK DEVELOPPER avec le Wagon Rennes. L'objectif aujourd'hui est de devenir Full Stack en entreprise et développer quelques projets en freelance</h3>
+<h3 align="center">Passionné du web depuis la fin des années 2000, j'ai commencé en autodidacte à faire des sites en PHP et un peu en Flash. J'ai ensuite pas mal fait de sites e-commerces en base Prestashop. Après 11 ans en tant que gérant fondateur d'un traiteur de petit déjeuner & brunch à Paris : Sophie la Parisienne; j'ai décidé d'entamer une formation FULLSTACK DEVELOPPER avec le Wagon Rennes. L'objectif aujourd'hui est de devenir FullStack en entreprise et développer quelques projets en freelance</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
